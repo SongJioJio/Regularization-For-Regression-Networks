@@ -1,1 +1,1 @@
-Some experiments for verifying the validity of our proposed regularization term.
+Here are the experiments we conducted to verify the validity of our proposed regularization term.
